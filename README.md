@@ -1,4 +1,7 @@
+<img width="512" height="768" alt="20250813_1839_Python Rock Paper Scissors_simple_compose_01k2hzj649ev0a7v1vdqdkgv80" src="https://github.com/user-attachments/assets/90c6ee45-dc4b-48bd-8ed0-d4ab507e90e9" />
+
 درود بر دوسنانی و مهندسی
+
 ساخت بازی یک راه عالی برای یادگیری برنامه نویسی است. میتونید برای تفریح هم که شده بازی‌های ساده ایجاد کرده و مهارت برنامه نویسی خودتان را به چالش بکشید.
 
  #  سنگ، کاغذ، قیچی چیست؟
